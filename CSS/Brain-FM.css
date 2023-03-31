@@ -1,0 +1,44 @@
+body {
+	margin: 10px;
+	background-color: #5736FF
+}
+
+.section-1 {
+	flex-direction: row;
+	display: flex;
+	color: white;
+	align-items: center;
+	
+}
+
+input[type='button'] {
+	padding: 12px 32px;
+	border-radius: 35px;
+	border: 0px;
+	font-weight: bold;
+	background-color: #FAAF00;
+	color: #FFFFFF;
+}
+
+a:visited {
+	color: white;
+}
+
+hover {
+	color: #999999;
+}
+
+.section-2 {
+	color: white;
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+}
+
+.section-3 {	
+	
+}
+
+.section-4 {
+	
+}
