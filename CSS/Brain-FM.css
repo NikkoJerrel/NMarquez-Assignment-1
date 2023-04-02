@@ -1,14 +1,15 @@
 body {
 	margin: 10px;
-	background-color: #5736FF
-}
+	background-color: #471BF5;
+	font-family: arial medium;
+	}
 
 .section-1 {
 	flex-direction: row;
 	display: flex;
 	color: white;
 	align-items: center;
-	
+	margin-bottom: 200px;	
 }
 
 input[type='button'] {
@@ -33,12 +34,23 @@ hover {
 	flex-direction: row;
 	display: flex;
 	align-items: center;
+	margin: 50px;
 }
 
 .section-3 {	
-	
+	padding: 85px;
+	color: white;
+	font-size: 22;
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .section-4 {
-	
+	color: white;
+	flex-direction: row;
+	display: flex;
+	align-items: center;
+	margin: 50px;
 }
