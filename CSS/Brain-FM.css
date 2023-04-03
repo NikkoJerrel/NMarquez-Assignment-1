@@ -12,13 +12,24 @@ body {
 	margin-bottom: 200px;	
 }
 
-input[type='button'] {
+#try-free {
 	padding: 12px 32px;
 	border-radius: 35px;
 	border: 0px;
 	font-weight: bold;
 	background-color: #FAAF00;
 	color: #FFFFFF;
+}
+
+#sessions {
+	padding: 30px;
+	border-radius: 70px;
+	border: 0px;
+	font-weight: bold;
+	background-color: #FAAF00;
+	color: #FFFFFF;
+	font-size: 18;
+	word-wrap: break-word;
 }
 
 a:visited {
@@ -31,8 +42,8 @@ hover {
 
 .section-2 {
 	color: white;
-	flex-direction: row;
 	display: flex;
+	flex-direction: row;
 	align-items: center;
 	margin: 50px;
 }
@@ -52,5 +63,5 @@ hover {
 	flex-direction: row;
 	display: flex;
 	align-items: center;
-	margin: 50px;
-}
+	margin: 50px 275px
+	
